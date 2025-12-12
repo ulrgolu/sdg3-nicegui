@@ -1,0 +1,6 @@
+*.md
+*.txt
+/files
+/Include
+/Lib
+/__pycache__
